@@ -2,47 +2,92 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "Projeto pessoal",
+      "title": "Supplyshop - Fornecedora ⚓",
+      "description": "Projeto para empresa Supplyshop, onde juntos conseguimos atrair novos clientes e aumentamos consideravelmente a quantidade de vendas",
+      "tags": ["React", "JavaScript"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/supplyshop.png",
+        "alt": "Previa do site",
+        "linkTo": "https://supplyshop.vercel.app/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/n-kyu/supplyshop"
         },
         {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://supplyshop.vercel.app/"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "Projeto pessoal",
+      "title": "Pokedex 🕹️",
+      "description": "Projeto pessoal onde utilizei conhecimentos em API para buscar as informçaões dos Pokemons da PokeAPI",
+      "tags": ["React", "TypeScript"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/pokedex.jpg",
+        "alt": "Previa do site",
+        "linkTo": "https://pokedex-n-kyu.vercel.app/"
       },
       "links": [
         {
           "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "url": "https://github.com/n-kyu/pokedex"
+        },
+        {
+          "type": "external",
+          "url": "https://pokedex-n-kyu.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Projeto pessoal",
+      "title": "Riot games - Login page 📝",
+      "description": "Projeto pessoal onde tentei refazer a página de login da riot games utilizando apenas HTML,CSS e um pouco de JavaScript",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "image": {
+        "src": "../../images/loginriot.png",
+        "alt": "Previa do site",
+        "linkTo": "https://signin-lovat.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/n-kyu/riot-games-web-signin"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Projeto pessoal",
+      "title": "Layout - Novo projeto ⚙️",
+      "description": "Projeto em desenvolvimento",
+      "tags": ["Em breve", "Em breve"],
+      "image": {
+        "src": "../../images/construcao.jpg",
+        "alt": "Previa do site",
+        "linkTo": "#"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/n-kyu"
+        },
+        {
+          "type": "external",
+          "url": "#"
         }
       ]
     }
   ],
   "button": {
     "visible": true,
-    "label": "Visit on Github",
-    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+    "label": "Meus repositórios",
+    "url": "https://github.com/n-kyu"
   }
 }

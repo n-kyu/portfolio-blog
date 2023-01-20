@@ -1,14 +1,12 @@
 ---
-imageSrc: "../../images/charles-deluvio-DgoyKNgPiFQ-unsplash.jpg"
-imageAlt: "About Gatsby Theme Portfolio Minimal"
+imageSrc: "../../images/about-image.jpg"
+imageAlt: "About Image"
 ---
 
-Portfolio Minimal is a Gatsby Theme that creates outstanding one-pages portfolio within minutes!
+Olá, meu nome é Nathan, tenho 23 anos, sou desenvolvedor front-end!
 
-It has predefined sections for your bio, skills, projects, and contact details. If you are a writer on Medium, you can integrate your latest articles in a distinct section as well. While building the theme, I tried to keep the setup as simple as possible while keeping everything configurable if you like to.
+Sou apaixonado por design desde a infância, tive meu primeiro contato em 2012 onde fiz cursos de Photoshop e Illustrator, em 2022 conheci o mundo da programação, onde decidi então unir minha paixão por design com desenvolvimento.
 
-Using theme composition, you can easily customize the CSS theme to your own preferences - e.g. change colors, fonts, etc.
+Depois alguns de meses estudando programação consegui realizar uma aplicação utilizando React para apresentar uma micro-empresa, onde juntos conseguimos aumentar consideravelmente a quantidade de clientes e de vendas.
 
-Last but not least, it has some cool features you can opt-in to: Dark Mode, Splash Screen, Cookie Banner, and more to find out :)
-
-Photo by <a href="https://unsplash.com/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank" rel="nofollow noopener noreferrer" aria-label="External Link"><u>Charles Deluvio</u></a> on Unsplash
+Estou em busca de uma nova oportunidade e vou trabalhar mais e mais para sua empresa com todo meu coração e habilidades. Se houver algo que eu não saiba, aprenderei com os membros da minha equipe e focarei tudo no sucesso da empresa!
