@@ -7,7 +7,7 @@
       "description": "Projeto para empresa Supplyshop, onde juntos conseguimos atrair novos clientes e aumentamos consideravelmente a quantidade de vendas",
       "tags": ["React", "JavaScript"],
       "image": {
-        "src": "../../images/supplyshop.png",
+        "src": "../../images/supplyshop.jpg",
         "alt": "Previa do site",
         "linkTo": "https://supplyshop.vercel.app/"
       },
