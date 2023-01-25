@@ -3,7 +3,7 @@
     {
       "visible": true,
       "category": "Projeto pessoal",
-      "title": "Supplyshop - Fornecedora ⚓",
+      "title": "Supplyshop - Fornecedora",
       "description": "Projeto para empresa Supplyshop, onde juntos conseguimos atrair novos clientes e aumentamos consideravelmente a quantidade de vendas",
       "tags": ["React", "JavaScript"],
       "image": {
@@ -25,7 +25,29 @@
     {
       "visible": true,
       "category": "Projeto pessoal",
-      "title": "Pokedex 🕹️",
+      "title": "Lorem Gym",
+      "description": "Lorem Gym é uma franquia de academias fictícia com unidades em SP, RJ e BA. No site você encontra todas as informações sobre os planos e unidades",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "image": {
+        "src": "../../images/loremgym.jpg",
+        "alt": "Previa do site",
+        "linkTo": "https://loremgym.vercel.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/n-kyu/loremgym"
+        },
+        {
+          "type": "external",
+          "url": "https://loremgym.vercel.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Projeto pessoal",
+      "title": "Pokedex",
       "description": "Projeto pessoal onde utilizei conhecimentos em API para buscar as informçaões dos Pokemons da PokeAPI",
       "tags": ["React", "TypeScript"],
       "image": {
@@ -47,7 +69,7 @@
     {
       "visible": true,
       "category": "Projeto pessoal",
-      "title": "Riot games - Login page 📝",
+      "title": "Riot games - Login page",
       "description": "Projeto pessoal onde tentei refazer a página de login da riot games utilizando apenas HTML,CSS e um pouco de JavaScript",
       "tags": ["HTML", "CSS", "JavaScript"],
       "image": {
@@ -65,7 +87,7 @@
     {
       "visible": true,
       "category": "Projeto pessoal",
-      "title": "Layout - Novo projeto ⚙️",
+      "title": "Novo Projeto",
       "description": "Projeto em desenvolvimento",
       "tags": ["Em breve", "Em breve"],
       "image": {
@@ -87,7 +109,7 @@
   ],
   "button": {
     "visible": true,
-    "label": "Meus repositórios",
+    "label": "Outros projetos",
     "url": "https://github.com/n-kyu"
   }
 }
