@@ -9,4 +9,4 @@ Sou apaixonado por design desde a infância, tive meu primeiro contato em 2012 o
 
 Depois alguns de meses estudando programação consegui realizar uma aplicação utilizando React para apresentar uma micro-empresa, onde juntos conseguimos aumentar consideravelmente a quantidade de clientes e de vendas.
 
-Estou em busca de uma nova oportunidade e vou trabalhar mais e mais para sua empresa com todo meu coração e habilidades. Se houver algo que eu não saiba, aprenderei com os membros da minha equipe e focarei tudo no sucesso da empresa!
+Estou em busca de novas oportunidades e vou trabalhar mais e mais para sua empresa com todo meu coração e habilidades. Se houver algo que eu não saiba, aprenderei com os membros da minha equipe e focarei tudo no sucesso da empresa!
