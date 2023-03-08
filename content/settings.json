@@ -17,21 +17,37 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Blog" },
+    "logo": {
+      "text": "Blog"
+    },
     "navigation": {
       "header": [
-        { "label": "Sobre", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
-        { "label": "Projetos", "url": "/#projects" },
-        { "label": "Contato", "url": "/#contact" }
+        {
+          "label": "Sobre",
+          "url": "/#about"
+        },
+        {
+          "label": "Blog",
+          "url": "/blog"
+        },
+        {
+          "label": "Projetos",
+          "url": "/#projects"
+        },
+        {
+          "label": "Contato",
+          "url": "/#contact"
+        }
       ],
       "ctaButton": {
         "openNewTab": true,
         "label": "CV",
-        "url": "/CV_NathanCosta.pdf"
+        "url": "/CV_Nathan_-_PT_BR.pdf"
       },
       "footer": [
-        { "label": "©2023 n-kyu" }
+        {
+          "label": "©2023 n-kyu"
+        }
       ]
     },
     "featureToggles": {
