@@ -8,6 +8,6 @@
   "description": "Aqui você vai encontrar meu blog pessoal e portfolio",
   "socialProfiles": {
     "from": ["LinkedIn","Github"],
-    "showIcons": false
+    "showIcons": true
   }
 }
