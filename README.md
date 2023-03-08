@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/df831687-4944-4451-8d5d-c3cdc078de06/deploy-status)](https://portfolio-blog-nkyu.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1c930174-1cf0-4edc-afca-395aaee45539/deploy-status)](https://app.netlify.com/sites/portfolio-blog-nkyu/deploys)
 
 
 <img src="screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
