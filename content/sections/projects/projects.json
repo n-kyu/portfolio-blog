@@ -3,6 +3,28 @@
     {
       "visible": true,
       "category": "Projeto pessoal",
+      "title": "OpenNFTs - AI NFTs",
+      "description": "Projeto Pessoal que surgiu de uma curiosidade com inteligências artificiais, utilizando chatGPT + Midjourney. o ChatGPT me recomendou uma criação de site em estilo blockchain e o Midjourney me forneceu todas as imagens que utilizei como ''NFT''",
+      "tags": ["React", "JavaScript"],
+      "image": {
+        "src": "../../images/opennft.png",
+        "alt": "Previa do site",
+        "linkTo": "https://opennft-nkyu.netlify.app/"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/n-kyu/opennft"
+        },
+        {
+          "type": "external",
+          "url": "https://opennft-nkyu.netlify.app/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Projeto pessoal",
       "title": "Supplyshop - Fornecedora",
       "description": "Projeto para empresa Supplyshop, onde juntos conseguimos atrair novos clientes e aumentamos consideravelmente a quantidade de vendas",
       "tags": ["React", "JavaScript"],
@@ -29,7 +51,7 @@
       "description": "Lorem Gym é uma franquia de academias fictícia com unidades em SP, RJ e BA. No site você encontra todas as informações sobre os planos e unidades",
       "tags": ["HTML", "CSS", "JavaScript"],
       "image": {
-        "src": "../../images/loremgym.jpg",
+        "src": "../../images/loremgym.png",
         "alt": "Previa do site",
         "linkTo": "https://loremgym.vercel.app/"
       },
